@@ -1,0 +1,62 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  },
+  "hide-files.files": [],
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#404073",
+    "activityBar.background": "#404073",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#140b0b",
+    "activityBarBadge.foreground": "#e7e7e7",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#404073",
+    "statusBar.background": "#2e2e52",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#404073",
+    "statusBarItem.remoteBackground": "#2e2e52",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#2e2e52",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#2e2e5299",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  },
+  "peacock.color": "#2e2e52"
+} // {
+//   "workbench.colorCustomizations": {
+//     "activityBar.activeBackground": "#ed766b",
+//     "activityBar.background": "#ed766b",
+//     "activityBar.foreground": "#15202b",
+//     "activityBar.inactiveForeground": "#15202b99",
+//     "activityBarBadge.background": "#8df196",
+//     "activityBarBadge.foreground": "#15202b",
+//     "commandCenter.border": "#e7e7e799",
+//     "sash.hoverBorder": "#ed766b",
+//     "statusBar.background": "#e84c3d",
+//     "statusBar.foreground": "#e7e7e7",
+//     "statusBarItem.hoverBackground": "#ed766b",
+//     "statusBarItem.remoteBackground": "#e84c3d",
+//     "statusBarItem.remoteForeground": "#e7e7e7",
+//     "titleBar.activeBackground": "#e84c3d",
+//     "titleBar.activeForeground": "#e7e7e7",
+//     "titleBar.inactiveBackground": "#e84c3d99",
+//     "titleBar.inactiveForeground": "#e7e7e799"
+//   },
+//   "peacock.color": "#e84c3d",
+//   "files.exclude": {
+//     "**/.git": true,
+//     "**/.svn": true,
+//     "**/.hg": true,
+//     "**/CVS": true,
+//     "**/.DS_Store": true,
+//     "**/Thumbs.db": true
+//   },
+//   "hide-files.files": [],
+//   "px-to-rem.px-per-rem": 16
+// }
